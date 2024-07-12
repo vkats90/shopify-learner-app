@@ -3,7 +3,7 @@
 client_id = "7f4d94449ed6d95dd138554401064869"
 name = "learner-app"
 handle = "learner-app-2"
-application_url = "https://screensavers-inspired-summit-assumption.trycloudflare.com"
+application_url = "https://guarantees-divisions-blacks-corrections.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://screensavers-inspired-summit-assumption.trycloudflare.com/auth/callback",
-  "https://screensavers-inspired-summit-assumption.trycloudflare.com/auth/shopify/callback",
-  "https://screensavers-inspired-summit-assumption.trycloudflare.com/api/auth/callback"
+  "https://guarantees-divisions-blacks-corrections.trycloudflare.com/auth/callback",
+  "https://guarantees-divisions-blacks-corrections.trycloudflare.com/auth/shopify/callback",
+  "https://guarantees-divisions-blacks-corrections.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
